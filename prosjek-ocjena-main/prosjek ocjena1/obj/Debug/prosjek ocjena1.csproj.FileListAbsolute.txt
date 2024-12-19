@@ -1,0 +1,17 @@
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\bin\Debug\prosjek ocjena1.exe.config
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\bin\Debug\prosjek ocjena1.exe
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\bin\Debug\prosjek ocjena1.pdb
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek ocjena1.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek_ocjena1.Form1.resources
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek_ocjena1.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek ocjena1.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek ocjena1.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek ocjena1.exe
+C:\Users\Ucenik\source\repos\prosjek ocjena1\prosjek ocjena1\obj\Debug\prosjek ocjena1.pdb
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek ocjena1.csproj.AssemblyReference.cache
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek_ocjena1.Form1.resources
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek_ocjena1.Properties.Resources.resources
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek ocjena1.csproj.GenerateResource.cache
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek ocjena1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek ocjena1.exe
+C:\Users\Učenik\Downloads\prosjek-ocjena-main\prosjek-ocjena-main\prosjek ocjena1\obj\Debug\prosjek ocjena1.pdb
